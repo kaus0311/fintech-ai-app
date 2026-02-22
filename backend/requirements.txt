@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+python-dotenv
+openai
+scikit-learn   # optional if using IsolationForest
